@@ -1,0 +1,6 @@
+Intro to CSS
+CSS- is an abbrieviation for the word Cascading Style Sheets
+It is used to modify/design our webpages depending on the taste or we want
+Css syntax comprise of 
+    properties:value;
+ assignment{ add css styling to some of your projects}
